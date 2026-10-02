@@ -48,3 +48,4 @@ The goal of this project was to practice **Excel data analysis, financial calcul
 ## Author
 
 **Mohammad Tayyab Mehdi**
+Data Analytics Student | Excel & Data Visualization
