@@ -43,7 +43,7 @@ The goal of this project was to practice **Excel data analysis, financial calcul
 
 ## Dashboard Preview
 
-![Personal Finance Dashboard](personal_finance_dashboard_data.xlsm.png)
+![Personal Finance Dashboard](Personal_Finance_Dashboard_.png.png)
 
 ## Author
 
